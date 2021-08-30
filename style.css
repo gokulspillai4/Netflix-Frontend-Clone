@@ -8,6 +8,7 @@ body{
     margin: 0px;
     font-family: Arial, Helvetica, sans-serif;
     background-color: black;
+    width: 100%;
 
 }
 .svg-icon-netflix-logo{
@@ -147,7 +148,7 @@ table{
     padding-top: 15px;
 }
 td {
-    padding: 0 82px;
+    padding: 0 52px;
   }
 
 .faq-heading{
@@ -171,7 +172,7 @@ td {
     font-size: 25px;
 }
 #last-form{
-    margin-left: 302px;
+    margin-left: 346px;
     margin-top: -60px;
     margin-bottom: 74px;
 }
@@ -189,7 +190,8 @@ a{
     color: #757575;
 }
 #footer-table{
-    margin-left: -18px;
+    margin-left: 166px;
+    margin-top: 60px;
     border-collapse: separate;
     border-spacing: 0 1em;
     
@@ -197,4 +199,22 @@ a{
 #brand-name{
     font-size: 14px;
     color: #757575;
+}
+#plus{
+    margin: -36px 0 -9px 518px;
+}
+#plus1{
+    margin: -36px 0 -9px 370px;
+}
+#plus2{
+    margin: -36px 0 -9px 471px;
+}
+#plus3{
+    margin: -36px 0 -9px 500px;
+}
+#plus4{
+    margin: -36px 0 -9px 375px;
+}
+#plus5{  
+    margin: -36px 0 -9px 432px;
 }
